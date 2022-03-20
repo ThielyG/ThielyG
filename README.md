@@ -1,5 +1,5 @@
 
-### Hey, I'm Thiely Gimenez👋
+### Hey, I'm Thiely 👋
 
 
 <div align="center">
