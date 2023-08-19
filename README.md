@@ -12,7 +12,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://w7.pngwing.com/pngs/235/872/png-transparent-react-computer-icons-redux-javascript-others-logo-symmetry-nodejs-thumbnail.png">
+  <img align="center" alt="React" height="30" width="40" src="https://icon2.cleanpng.com/20180405/izw/kisspng-game-react-native-javascript-android-physics-5ac6d5f4c83ec0.7682544715229803408202.jpg">
  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Java" height="30" width="40" src="https://user-images.githubusercontent.com/90934377/209745169-4a0c5b2e-ae13-4db7-b042-6e62164f85d4.png">
     
