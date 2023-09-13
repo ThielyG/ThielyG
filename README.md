@@ -1,6 +1,7 @@
 
 ### Hey, I'm Thiely 👋
 I'm a computer programming student at Humber College.
+ <a href = "thielygimenez.com">Check my Website!</a>
 
   
   <div style="display: inline_block"><br>
@@ -19,5 +20,6 @@ I'm a computer programming student at Humber College.
 <div> 
    <a href="https://www.linkedin.com/in/thiely-gimenez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:thiely.ksps@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   
  
 </div>
