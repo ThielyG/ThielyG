@@ -1,7 +1,7 @@
 
 ### Hey, I'm Thiely 👋
-I'm a computer programming student at Humber College.
- <a href = "thielygimenez.com">Check my Website!</a>
+I'm a computer programming student at Humber College. <br>
+ <a href = "https://thielygimenez.com/">Check my Website!</a>
 
   
   <div style="display: inline_block"><br>
