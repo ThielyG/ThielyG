@@ -1,5 +1,5 @@
 
-## Hey, I'm Thiely 👋
+### Hey, I'm Thiely 👋
 I'm a computer programming student at Humber College. <br>
  <a href = "https://thielygimenez.com/">Check my Website!</a>
 
